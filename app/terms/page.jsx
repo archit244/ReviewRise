@@ -431,7 +431,7 @@ export default function TermsOfServicePage() {
             </div>
             <div className="legal-contact-item">
               <span className="legal-contact-label">Operated By</span>
-              <span className="legal-contact-value">ReviewRise Inc.</span>
+              <span className="legal-contact-value">Independent Individual</span>
             </div>
             <div className="legal-contact-item">
               <span className="legal-contact-label">Country</span>
@@ -440,7 +440,7 @@ export default function TermsOfServicePage() {
             <div className="legal-contact-item">
               <span className="legal-contact-label">Email</span>
               <span className="legal-contact-value">
-                <a href="mailto:support@reviewrise.com?subject=Terms%20Inquiry">support@reviewrise.com</a>
+                <a href="mailto:reviewriseindia@gmail.com?subject=Terms%20Inquiry">reviewriseindia@gmail.com</a>
               </span>
             </div>
           </div>

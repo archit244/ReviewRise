@@ -198,7 +198,7 @@ export default function ReviewCompliancePage() {
             <div className="legal-contact-item">
               <span className="legal-contact-label">Email</span>
               <span className="legal-contact-value">
-                <a href="mailto:support@reviewrise.com?subject=Review%20Compliance%20Concern">support@reviewrise.com</a>
+                <a href="mailto:reviewriseindia@gmail.com?subject=Review%20Compliance%20Concern">reviewriseindia@gmail.com</a>
               </span>
             </div>
             <div className="legal-contact-item">

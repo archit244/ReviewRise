@@ -10,9 +10,10 @@ export default function Footer() {
       <div className="wrap ft-small-wrap">
         <div className="ft-small-bottom">
           <span className="ft-small-copy">
-            &copy; {currentYear} ReviewRise Inc. All rights reserved.
+            &copy; {currentYear} ReviewRise. All rights reserved.
           </span>
           <div className="ft-small-legal">
+            <a href="mailto:reviewriseindia@gmail.com">reviewriseindia@gmail.com</a>
             <a href="/privacy">Privacy</a>
             <a href="/terms">Terms</a>
             <a href="/compliance">Review Compliance</a>

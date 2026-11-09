@@ -201,7 +201,6 @@ export default function PrivacyPolicyPage() {
         <ul>
           <li><strong>Vercel:</strong> Website hosting, deployment and infrastructure.</li>
           <li><strong>Supabase:</strong> Database, authentication and application infrastructure.</li>
-          <li><strong>Cal.com:</strong> Demo scheduling and appointment management.</li>
           <li><strong>Cloudflare:</strong> Website security and bot protection.</li>
           <li><strong>Messaging providers:</strong> Delivery of SMS or WhatsApp communications.</li>
           <li><strong>Payment providers:</strong> Processing subscriptions and transactions.</li>
@@ -366,7 +365,7 @@ export default function PrivacyPolicyPage() {
             </div>
             <div className="legal-contact-item">
               <span className="legal-contact-label">Operated By</span>
-              <span className="legal-contact-value">ReviewRise Inc.</span>
+              <span className="legal-contact-value">Independent Individual</span>
             </div>
             <div className="legal-contact-item">
               <span className="legal-contact-label">Country</span>
@@ -375,7 +374,7 @@ export default function PrivacyPolicyPage() {
             <div className="legal-contact-item">
               <span className="legal-contact-label">Email</span>
               <span className="legal-contact-value">
-                <a href="mailto:privacy@reviewrise.com?subject=Privacy%20Request">privacy@reviewrise.com</a>
+                <a href="mailto:reviewriseindia@gmail.com?subject=Privacy%20Request">reviewriseindia@gmail.com</a>
               </span>
             </div>
           </div>
