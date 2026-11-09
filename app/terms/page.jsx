@@ -430,10 +430,6 @@ export default function TermsOfServicePage() {
               <span className="legal-contact-value">ReviewRise</span>
             </div>
             <div className="legal-contact-item">
-              <span className="legal-contact-label">Operated By</span>
-              <span className="legal-contact-value">Independent Individual</span>
-            </div>
-            <div className="legal-contact-item">
               <span className="legal-contact-label">Country</span>
               <span className="legal-contact-value">India</span>
             </div>
